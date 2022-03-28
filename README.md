@@ -1,2 +1,0 @@
-# Scriptfree-tls.com
-bot
